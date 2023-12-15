@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "Inter";
+    font-weight: 300;
+url("../fonts/Inter-Light.ttf") format("ttf");
+}
+
+@font-face {
+    font-family: "Inter";
+    font-weight: 400;
+url("../fonts/Inter-Regular.ttf") format("ttf");
+}
+
+@font-face {
+    font-family: "Inter";
+    font-weight: 600;
+url("../fonts/Inter-SemiBold.ttf") format("ttf");
+}
+
+@font-face {
+    font-family: "Inter";
+    font-weight: 800;
+url("../fonts/Inter-ExtraBold.ttf") format("ttf");
+}
+@font-face {
+    font-family: "Poppins";
+    font-weight: 600;
+url("../fonts/Poppins-SemiBold.ttf") format("ttf");
+}

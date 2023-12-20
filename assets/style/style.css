@@ -335,6 +335,61 @@ hr{
     color: #217BF4;
     margin-left: 2px;
 }
+.cent{
+    display: flex;
+    justify-content: center;
+}
+.switcher{
+    margin-top: 40px;
+    width: 400px;
+    height: 72px;
+    display: flex;
+    align-items: center;
+    padding: 0 10px;
+    justify-content: space-between;
+    background-color: rgba(33, 123, 244, 0.06);
+    border-radius: 14px;
+}
+.newst{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 150px;
+}
+.pop{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+}
+.active {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    width: 150px;
+    height: 58px;
+    border-radius: 14px;
+    background: #217BF4;
+    box-shadow: 0px 7px 22px -6px rgba(0, 72, 168, 0.34);
+}
+.users-top{
+    margin-top: 45px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 150px;
+}
+
+.bg-app{
+    background: #E5F0FD;
+    height: 560px;
+}
+.mobileapp{
+    display: flex;
+
+}
+
 
 
 

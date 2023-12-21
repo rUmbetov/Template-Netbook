@@ -381,15 +381,46 @@ hr{
     margin-bottom: 150px;
 }
 
+.firs-users{
+    width: 270px;
+    height: 316px;
+    border-radius: 14px;
+    background: #FFF;
+    box-shadow: 0px 34px 68px 0px rgba(116, 115, 128, 0.10);
+}
+.other-users{
+    margin-left: 30px;
+    width: 270px;
+    height: 316px;
+    border-radius: 14px;
+    border: 2px solid rgba(243, 243, 243, 0.50);
+    background: #FFF;
+}
+.us
+
+
 .bg-app{
     background: #E5F0FD;
     height: 560px;
 }
 .mobileapp{
     display: flex;
+    justify-content: space-between;
 
 }
-
+.but-sh{
+    margin-top: 35px;
+    display: flex;
+}
+.but-sh img{
+    width: 140px;
+}
+.but-sh img:first-child{
+    margin-right: 5px;
+}
+.mobile img{
+    width: 805px;
+}
 
 
 
